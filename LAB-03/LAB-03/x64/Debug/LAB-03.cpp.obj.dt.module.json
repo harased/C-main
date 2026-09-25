@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "LAB-03\\x64\\Debug\\LAB-03.obj",
+            "outputs": [
+                "LAB-03\\x64\\Debug\\LAB-03.cpp.obj.dt.module.json",
+                "LAB-03\\x64\\Debug\\LAB-03.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

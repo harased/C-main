@@ -1,0 +1,6 @@
+﻿  LAB-06.c
+C:\Users\PC\source\repos\C\LAB-06\LAB-06.c(11,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+      C:\Users\PC\source\repos\C\LAB-06\LAB-06.c(11,9):
+      consider using '%zu' in the format string
+  
+  LAB-06.vcxproj -> C:\Users\PC\source\repos\C\LAB-06\x64\Debug\LAB-06.exe

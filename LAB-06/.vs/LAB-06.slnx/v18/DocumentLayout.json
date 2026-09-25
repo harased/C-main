@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\C\\LAB-06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A191BE4B-BAD7-4612-AD73-265C9D9C4918}|LAB-06.vcxproj|C:\\Users\\PC\\source\\repos\\C\\LAB-06\\LAB-06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A191BE4B-BAD7-4612-AD73-265C9D9C4918}|LAB-06.vcxproj|solutionrelative:LAB-06.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB-06.c",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\C\\LAB-06\\LAB-06.c",
+              "RelativeDocumentMoniker": "LAB-06.c",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\C\\LAB-06\\LAB-06.c",
+              "RelativeToolTip": "LAB-06.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-22T21:25:19.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
