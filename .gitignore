@@ -7,6 +7,14 @@
 *.suo
 *.sln.docstates
 
+# Build directories (x64, Debug, Release, etc.)
+/[Xx]64/
+/[Dd]ebug/
+/[Rr]elease/
+**/[Xx]64/
+**/[Dd]ebug/
+**/[Rr]elease/
+
 # Compiled Object files
 *.slo
 *.lo
